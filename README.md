@@ -1,3 +1,7 @@
 # plant_bd
-Plantilla generica para sistemas
-Un aspecto primordial en el desarrollo de sistemas es contar con un buen diseño de base de datos y es por esto que he querido entregar un diseño preliminar de un base de datos que aborda problemáticas comunes de todo sistema. Utilizaré postgreSQL para todo los ejemplos.
+
+Generic database template for systems.
+
+A fundamental aspect in the development of systems is to have a good database design and that is why I wanted to deliver a preliminary design of a database that addresses common problems of the entire system. 
+
+I will use postgreSQL for all the examples.
